@@ -128,7 +128,3 @@ https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
 Enforcement Guidelines
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
-
-# Contributing
-
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
